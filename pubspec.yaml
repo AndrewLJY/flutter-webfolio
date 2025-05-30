@@ -29,3 +29,8 @@ flutter:
     - lib/assets/verbasense.png
     - lib/assets/capacitor.png
     - lib/assets/icecream.png
+
+  fonts:
+    - family: OCRATribute
+      fonts:
+        - asset: lib/assets/fonts/OCR_A_TRIBUTE.ttf
